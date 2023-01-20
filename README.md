@@ -34,8 +34,4 @@ A1. Try installing ffmpeg manually, http://blog.gregzaal.com/how-to-install-ffmp
 Q2. Your Computer or Network May Be Sending Automated Queries. <br>
 A2. Change activate_tor = True, you may be able to bypass it after a few tries.<br>
 
-## Video tutorial
-https://www.youtube.com/watch?v=Fdu81T9GgMA
 
-## Medium
-https://ohyicong.medium.com/how-to-bypass-recaptcha-with-python-1d77a87a00d7
