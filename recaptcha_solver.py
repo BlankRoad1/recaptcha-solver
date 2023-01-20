@@ -1,11 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Aug 16 10:01:10 2020
 
-@author: OHyic
-"""
-
-# system libraries
 import os
 import sys
 import urllib
